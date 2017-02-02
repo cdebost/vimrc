@@ -1,0 +1,3 @@
+# Installing
+
+Run `./setup.sh`.
